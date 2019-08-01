@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@polymer/polymer": "^3.0.0-pre.13"
+  },
+  "name": "testverteego",
+  "version": "1.0.0",
+  "description": "Create a web component",
+  "main": "index.html",
+  "author": "William Tassy",
+  "license": "ISC"
+}
