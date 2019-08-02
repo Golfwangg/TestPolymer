@@ -1,11 +1,15 @@
 {
-  "dependencies": {
-    "@polymer/polymer": "^3.0.0-pre.13"
-  },
-  "name": "testverteego",
+  "name": "testpolymer3",
   "version": "1.0.0",
-  "description": "Create a web component",
+  "description": "Create a web component with Polymer 3",
   "main": "index.html",
   "author": "William Tassy",
-  "license": "ISC"
+  "license": "MIT",
+  "dependencies": {
+    "@polymer/polymer": "^3.0.0-pre.12",
+    "@webcomponents/webcomponentsjs": "^1.0.22"
+  },
+  "resolutions": {
+    "@webcomponents/webcomponentsjs": "1.0.22"
+  }
 }
